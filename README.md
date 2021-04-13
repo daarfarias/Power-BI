@@ -1,6 +1,6 @@
 # Power-BI
 
-1. Promoção de funcionários
+1. Data Science Academy - Exercício
 
 <img src="https://user-images.githubusercontent.com/73905390/111895888-71d8ef00-89f4-11eb-8b38-5475ab5aa03c.jpg" alt="drawing" width="300"/> 
 
